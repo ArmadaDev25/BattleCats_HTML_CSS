@@ -1,7 +1,6 @@
 # BattleCats_HTML_CSS
 ### Files Included
-Index File Link:
-[https://github.com/ArmadaDev25/BattleCats_HTML_CSS](https://github.com/ArmadaDev25/BattleCats_HTML_CSS/blob/main/index.html)
+[Index File Link](https://github.com/ArmadaDev25/BattleCats_HTML_CSS/blob/main/index.html)
 
 
 ### Site ScreenShot
