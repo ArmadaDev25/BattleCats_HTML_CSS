@@ -4,6 +4,8 @@ Experiment with the different properties that affect text display, and various t
 
 Be creative and come up with the formatting (text, background, spacing) to make this jump out and catch a viewer's attention.
 
+## Site Description
+BattleCats_HTML_CSS is a website dedicated to the imaginary sport of battlecats. A sport in which kittens paw at each other until one falls over. This site shows the different kittens that compete for glory. Each 'Panel' has a picture, the name of the kitten, and a decription of them. There are 3 kittens listed on the site. 
 ## Files Included
 File Name: index.html \
 [HTML File Link](https://github.com/ArmadaDev25/BattleCats_HTML_CSS/blob/main/index.html) \
