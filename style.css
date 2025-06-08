@@ -6,6 +6,38 @@ background-attachment: fixed;
 background-size: 100% 100%;
 }
 
+img
+{
+    margin: 1%;
+
+}
+.pageTitle
+{
+    font-size: 600%;
+    padding-left: .5%;
+    color: azure;
+}
 .catInfoContainer{
     display: flex;
+    background-color: rgb(244, 252, 255);
+    margin: 1%;
+}
+
+.catDesTextCon
+{
+    padding: 1%;
+    text-align: center;
+}
+
+.catDesText
+{
+    font-size: larger;
+    color: black;
+}
+
+.catDesTitle
+{
+    font-size: 200%;
+    font-style: italic;
+    color: gray;
 }
