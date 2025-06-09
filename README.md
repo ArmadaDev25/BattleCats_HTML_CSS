@@ -15,4 +15,5 @@ File Name: style.css \
 ## Site ScreenShot
 <img width="750" alt="BCSiteImage" src="https://github.com/user-attachments/assets/0677d435-52c0-4c4e-b65c-48738c36f83a" />
 
-
+## Validator Results
+<img width="746" alt="HTMLTrackerpageIndexFile" src="https://github.com/user-attachments/assets/c9de934e-55ce-490a-9e9b-271609a36e1a" />
