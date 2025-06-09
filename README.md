@@ -17,3 +17,4 @@ File Name: style.css \
 
 ## Validator Results
 <img width="746" alt="HTMLTrackerpageIndexFile" src="https://github.com/user-attachments/assets/c9de934e-55ce-490a-9e9b-271609a36e1a" />
+<img width="720" alt="CSSValidateSS" src="https://github.com/user-attachments/assets/0724f38d-7cfe-4212-bd3c-4a928f9142e5" />
